@@ -15,19 +15,21 @@ This is the code repository for [Mastering Windows Server 2019 [Video]](https://
 ## Instructions and Navigation
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
-Previous experience of Windows Server operating systems and familiarity with networking concepts is required
+<UL><LI>Previous experience of Windows Server operating systems and familiarity with networking concepts is required</LI></UL>
 
 ### Technical Requirements
 This course has the following software requirements:<br/>
 Recommended Hardware Requirements
-OS: (2) Windows Server 2019 physical or virtual instances
-Processor: 2.0 Ghz+ 64-bit
-Memory: 8GB+
-Storage: 64GB+
+<UL>
+<LI>OS: (2) Windows Server 2019 physical or virtual instances
+<LI>Processor: 2.0 Ghz+ 64-bit
+<LI>Memory: 8GB+
+<LI>Storage: 64GB+</LI></UL>
 
 Software Requirements
-Operating System: Windows Server 2019
-A Microsoft Azure subscription
+<UL>
+<LI>Operating System: Windows Server 2019
+<LI>A Microsoft Azure subscription</LI></UL>
 
 
 
