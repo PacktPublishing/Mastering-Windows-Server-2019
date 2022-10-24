@@ -40,3 +40,7 @@ Software Requirements
 
 * [Implementing Windows Server 2019 Containers [Video]](https://www.packtpub.com/networking-and-servers/implementing-windows-server-2019-containers-video)
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781789804539">https://packt.link/free-ebook/9781789804539 </a> </p>
